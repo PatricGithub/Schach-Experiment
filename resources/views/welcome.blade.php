@@ -13,7 +13,7 @@
           <div class="container">
             <div class="wrap">
                 <div class="fix-8-12 center">
-        <h1>Willkommen zur Studie Analogien im Schach</h1>
+        <h1>Willkommen zur Studie <br>Analogien im Schach</h1>
         <p>Bitte geben Sie zunächst Ihren Code ein um teilzunehmen:</p>
         <!-- Livewire Code Validation Component -->
         @livewire('new-code-validation')
