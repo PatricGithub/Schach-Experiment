@@ -15,5 +15,6 @@ class ImageRating extends Model
         'answer',
         'participant_id',
         'expertise',
+        'fascination',
     ];
 }

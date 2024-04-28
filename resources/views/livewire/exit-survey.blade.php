@@ -1,45 +1,57 @@
 <div>
     <div>
-        <h1>Feedback zu Ihrer Erfahrung</h1>
+        <h1 class="left">Feedback zu Ihrer Erfahrung</h1>
     
         <form wire:submit.prevent="submitSurvey">
-            <div class="form-group">
-                <label for="instructionsClear" class="label">1. Haben Sie die Anweisungen verständlich gefunden?</label> 
+            <div class="form-group left">
+                <label for="instructionsClear" class="label">1. Hast du die Anweisungen verständlich gefunden?</label> 
                 <select class="input" wire:model="instructionsClear" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
-                    <option value="2">Nein</option> 
+                    <option value="0">Nein</option> 
                 </select>
-                @error('instructionsClear') <span class="error">{{ $message }}</span> @enderror
             </div>
     
-            <div class="margin-top-2">
-                <label for="confidence" class="label">2. Wie zuversichtlich sind Sie mit der Richtigkeit Ihrer Antworten?</label>
+            <div class="margin-top-2 left">
+                <label for="confidence" class="label">2. Nutzt du Analogien beim Schachspielen?</label>
                 <select class="input" wire:model="confidence" required>
                     <option value="">Bitte wählen...</option>
-                    <option value="1">Gar nicht zuversichtlich</option>
-                    <option value="2">Nicht sehr zuversichtlich</option>
-                    <option value="3">Neutral</option>
-                    <option value="4">Zuversichtlich</option>
-                    <option value="5">Sehr zuversichtlich</option>
+                    <option value="1">Ja</option>
+                    <option value="0">Nein</option> 
                 </select>
-                @error('confidence') <span class="error">{{ $message }}</span> @enderror
             </div>
     
-            <div class="margin-top-2">
-                <label for="chessboardSpeed" class="label">3. Bewerten Sie die Kreativität Ihrer Antworten.</label>
-                <select class="input" wire:model="chessboardSpeed" required>
+            <div class="margin-top-2 left">
+                <label for="confidence" class="label">3. Nutzt du Analogien vor dem Schachspielen?</label>
+                <select class="input" wire:model="pre_game" required>
                     <option value="">Bitte wählen...</option>
-                    <option value="Überhaupt nicht kreativ">Überhaupt nicht kreativ</option>
-                    <option value="Nicht sehr kreativ">Nicht sehr kreativ</option>
-                    <option value="Normal">Normal</option>
-                    <option value="Ziemlich kreativ">Ziemlich kreativ</option>
-                    <option value="Sehr reativ">Sehr reativ</option>
+                    <option value="1">Ja</option>
+                    <option value="0">Nein</option> 
                 </select>
-                @error('chessboardSpeed') <span class="error">{{ $message }}</span> @enderror
+            </div>
+
+    
+            <div class="margin-top-2 left">
+                <label for="confidence" class="label">4. Nutzt du Analogien während dem Schachspielen?</label>
+                <select class="input" wire:model="in_game" required>
+                    <option value="">Bitte wählen...</option>
+                    <option value="1">Ja</option>
+                    <option value="0">Nein</option> 
+                </select>
             </div>
     
-            <button type="submit" class="box-weiter margin-top-2" style="margin-left: 0px; padding: 15px 45px 15px 45px">Absenden</button>
+    
+            <div class="margin-top-2 left">
+                <label for="confidence" class="label">5. Nutzt du Analogien nach dem Schachspielen?</label>
+                <select class="input" wire:model="after_game" required>
+                    <option value="">Bitte wählen...</option>
+                    <option value="1">Ja</option>
+                    <option value="0">Nein</option> 
+                </select>
+            </div>
+            <div class="left">            
+                <button type="submit" class="box-weiter margin-top-2 left" style="margin-left: 0px; padding: 15px 45px 15px 45px">Absenden</button>
+            </div>
         </form>
     </div>
     

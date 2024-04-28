@@ -13,6 +13,10 @@ class ExitSurvey extends Component
     public $confidence;
     public $chessboardSpeed;
 
+    public $pre_game;
+    public $in_game;
+    public $after_game;
+    
     public function render()
     {
         return view('livewire.exit-survey');
@@ -28,14 +32,18 @@ class ExitSurvey extends Component
         $this->validate([
             'instructionsClear' => 'required',
             'confidence' => 'required|integer|between:1,5',
-            'chessboardSpeed' => 'required',
+            'pre_game' => 'required',
+            'in_game' => 'required',
+            'after_game' => 'required',
         ]);
 
         // Save the survey data to the database
         ExitUmfrage::create([
             'instructionsClear' => $this->instructionsClear,
             'confidence' => $this->confidence,
-            'chessboardSpeed' => $this->chessboardSpeed,
+            'pre_game' => $this->pre_game,
+            'in_game' => $this->in_game,
+            'after_game' => $this->after_game,
             'unique_id' => $validatedCode,
         ]);
         

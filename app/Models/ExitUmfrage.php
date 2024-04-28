@@ -13,6 +13,9 @@ class ExitUmfrage extends Model
         'instructionsClear',
         'confidence',
         'chessboardSpeed',
+        'pre_game',
+        'in_game',
+        'after_game',
         'unique_id',
         'condition',
     ];

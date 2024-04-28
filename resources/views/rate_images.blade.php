@@ -31,14 +31,22 @@
                         </div>
                         <div class="fix-8-12 center"> 
         <div>
-            <label for="answer" class="label">Erklären Sie Ihre Analogie:</label>
+            <label for="answer" class="label">Erklären Deine Analogie:</label>
             <input type="text" name="answer" id="answer" class="input" required>
 <br>
-            <label for="answer" class="label">Ihr Schachbrett:</label>
-            <input type="text" id="screenshot_input" name="rating" class="input" readonly>
+<label for="answer" class="label">Wie fasziniert bist Du mit der Analogie:</label>
+<select name="fascination" id="fascination" class="input" required>
+    <option value="">Bitte wählen...</option>
+    <option value="1">Gar nicht fasziniert</option>
+    <option value="2">Eher nicht fasziniert</option>
+    <option value="3">Weder fasziniert noch unfasziniert</option>
+    <option value="4">Etwas fasziniert</option>
+    <option value="5">Extrem fasziniert </option>
+</select>
+            <input type="hidden" id="screenshot_input" name="rating" class="input">
         </div>
         <!-- Hidden fields to store image path and participant expertise -->
-        <input type="hidden" name="image" value="{{ asset($imagePath) }}">
+        <input type="hidden" name="image" value="{{ asset($imagePath) }}" required>
         <button type="submit" id="submit_button" class="box-weiter" style="margin-top: 25px; margin-left: 0px; padding: 15px 45px 15px 45px">Bestätigen</button>
 </form>
 

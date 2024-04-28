@@ -19,14 +19,14 @@
             <div class="wrap">
                 <div class="fix-8-12 center">
                     <h1>Anleitung: Finde das schnellste Schachmatt für Weiß</h1>
-                    <p class="magazin_paragraph">Es werden Ihnen insgesamt drei Schachsituationen präsentiert. Ihre Aufgabe ist es, jeweils den bestmöglichen Zug für Weiß zu finden, um so schnell wie möglich ein Schachmatt zu erreichen.</p>
-                    <p class="magazin_paragraph">Bitte testen Sei das Schachbrett, um mit der Drag and Drop Funktion gut spielen zu können. Wenn Sie soweit sind, dann drücken Sie den Weiter Knopf.</p>
+                    <p class="magazin_paragraph">Es werden dir insgesamt drei Schachsituationen präsentiert. Deine Aufgabe ist es, jeweils den bestmöglichen Zug für Weiß zu finden, um so schnell wie möglich ein Schachmatt zu erreichen.</p>
+                    <p class="magazin_paragraph">Bitte teste das Schachbrett, um mit der Drag and Drop Funktion gut spielen zu können.</p>
                     <div class="fix-6-12 center margin-top-2">
 
                         <div id="board"></div>
                    
                    </div> 
-                   <p class="magazin_paragraph margin-top-2">Wichtiger Hinweis: Sobald Sie die Figur ausgewählt haben, können Sie diese nicht mehr absetzen. Das bedeutet Sie müssen Ihren Zug setzen.</p>
+                   <p class="magazin_paragraph margin-top-2"><strong>Wichtiger Hinweis für die folgenden Schachpuzzel:</strong> Sobald du die Figur ausgewählt hast, kannst du diese nicht mehr absetzen. Das bedeutet Du musst Deinen Zug setzen.</p>
 <br>
                     <a href="{{ route('puzzle_1')}}" class="button" style="border-radius: 7px; color: white; background-color: green;">Weiter</a>
 

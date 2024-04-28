@@ -14,9 +14,9 @@
         <div class="content">
           <div class="container">
             <div class="wrap">
-                <div class="fix-8-12 center">
+                <div class="fix-8-12">
                     <h1>Einverständniserklärung</h1>
-                    <p class="magazin_paragraph">Bitte lesen Sie die Informationen sorgfältig durch. Sie müssen mindestens 18 Jahre alt sein, um an dieser Studie teilnehmen zu können.</p>
+                    <p class="magazin_paragraph">Bitte lese dir die Informationen sorgfältig durch. Du musst mindestens 18 Jahre alt sein, um an dieser Studie teilnehmen zu können.</p>
                     
                     <h3 style="margin-bottom: 0 !important; padding-bottom: 0!important"><strong>Zweck der Forschung</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">
@@ -26,28 +26,48 @@
                     
                     <h3><strong>Ablauf</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">
-                        Zuerst werden Sie einen kurzen Fragebogen beantworten und dann drei Schachpuzzles lösen. Diese Aufgaben dienen dazu, Ihr Schachniveau einzuschätzen und festzustellen, ob Sie ein Anfänger oder ein fortgeschrittener Spieler sind.
+                        Zuerst wirst du einen kurzen Fragebogen beantworten und dann drei Schachpuzzles lösen. Diese Aufgaben dienen dazu, dein Schachniveau einzuschätzen und festzustellen, ob du ein Anfänger oder ein fortgeschrittener Spieler bist.
+                            <br> Vorab wichtig zu wissen: So funktioniert schlussfolgerndes Denken mit Analogien:
+                            <br> 
+                            Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was schlussfolgerndes Denken mit Analogien ermöglicht.
+                            <br> 
+                            Dabei vergleichen wir etwas Bekanntes (das Ausgangsproblem) mit etwas Unbekanntem (dem neuen Problem). So können wir unser Wissen aus der bekannten Situation auf die unbekannte übertragen.
+                            <br> 
+                            Wichtig ist, dass die beiden Situationen in gewisser Weise ähnlich sein müssen. Es muss also Gemeinsamkeiten zwischen den verglichenen Dingen geben.
+                            <br> <br>
+                            <strong>Beispiel:</strong>
                             <br>
-                        Nach der Einstufung erwarten Sie 10 einzigartige Schachsituationen. Zu jeder Position finden Sie ein leeres Brett. Ihre Aufgabe ist es, auf diesem Brett eine neue Schachposition zu erstellen, die der Originalposition so ähnlich wie möglich ist.
-                        <br>
-                        Nutze deine Schachkenntnisse und deine Fantasie, um Analogien zu finden, die sowohl die Spielfiguren als auch die strategische Ausrichtung der ursprünglichen Position widerspiegeln. Zeigen Sie Ihre Kreativität und Ihr Verständnis des Spiels, indem Sie neue Positionen erschaffen, die sowohl herausfordernd als auch dem Geist der ursprünglichen Situation entsprechen.
-                     </p>
+                            <strong>Bekannt:</strong> Hänsel und Gretel essen das Lebkuchenhaus, ohne zu merken, dass sie ihr Zuhause zerstören.
+                            <br><strong> Unbekannt:</strong> Manche Länder nutzen die Ressourcen der Natur auf, ohne zu bedenken, dass sie damit das Klima zerstören.
+                            Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
+                            <br><br>
+                            <strong>Merke dir:</strong> <br>
+                            
+                            - Analogien können uns helfen, neue Dinge zu verstehen. <br>
+                            - Die beiden Situationen, die wir vergleichen, müssen in gewisser Weise ähnlich sein. <br>
+                            - Analogien sind nicht immer perfekt, aber sie können uns helfen, erste Ideen zu entwickeln. <br>
+<br>
+                            <strong>Das wird von dir erwartet:</strong> <br>
+                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
+                            Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
+                            Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
+                             </p>
                     
                     <h3><strong>Dauer</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">10 - 20 Minuten</p>
                     
                     <h3><strong>Freiwillige Teilnahme</strong></h3>
-                    <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">Ihre Teilnahme erfolgt vollständig auf freiwilliger Basis, es gibt keine bekannten Risiken und keine Form der Vergütung. Sie sind frei, Ihre Teilnahme jederzeit und ohne Angabe von Gründen zurückzuziehen. Ein Abbruch zieht keinerlei Konsequenzen nach sich.</p>
+                    <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">Ihre Teilnahme erfolgt vollständig auf freiwilliger Basis, es gibt keine bekannten Risiken und keine Form der Vergütung. Du bist frei, deine Teilnahme jederzeit und ohne Angabe von Gründen zurückzuziehen. Ein Abbruch zieht keinerlei Konsequenzen nach sich.</p>
                     
                     <h3><strong>Vertraulichkeit</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">
-                        Sie werden um persönliche Informationen gebeten (Schachbewertung, Geschlecht, Alter). 
-                        Ihre Anonymität ist während der gesamten Studie garantiert.</p>
+                        Du wirst um persönliche Informationen gebeten (Schachbewertung, Geschlecht, Alter). 
+                        Deine Anonymität ist während der gesamten Studie garantiert.</p>
                     
                     <h3><strong>Kontaktinformationen für Fragen oder Bedenken</strong></h3>
-                    <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">Wenn Sie Fragen zum bevorstehenden Ablauf haben, richten Sie diese bitte an Patric Pfoertner M.Sc. Psychologe, Doktorand (<a href="mailto:f85787@students.nbu.bg">f85787@students.nbu.bg</a> oder <a href="mailto:p.pfoertner@psychology4.me">p.pfoertner@psychology4.me</a>).</p>
+                    <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">Wenn du Fragen zum bevorstehenden Ablauf hast, dann richte diese bitte an Patric Pfoertner M.Sc. Psychologe, Doktorand (<a href="mailto:f85787@students.nbu.bg">f85787@students.nbu.bg</a> oder <a href="mailto:p.pfoertner@psychology4.me">p.pfoertner@hallopsychologe.de</a>).</p>
                     
-                    <p class="magazin_paragraph" >Durch Klicken auf "ZUSTIMMEN" erklären Sie sich damit einverstanden, an der Studie wie beschrieben teilzunehmen.</p>
+                    <p class="magazin_paragraph" >Durch Klicken auf "ZUSTIMMEN" erklärst du dich damit einverstanden, an der Studie wie beschrieben teilzunehmen.</p>
                    
                    <br> <a href="/entry-survey" class="button" style="border-radius: 7px; color: white; background-color: green;">ZUSTIMMEN</a>
                     <a href="https://google.de" class="button" style="border-radius: 7px; background-color: #b71c1c !important; color: white">ABBRUCH</a>

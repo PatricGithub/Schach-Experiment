@@ -17,9 +17,14 @@
             <div class="wrap">
                 <div class="fix-8-12 left magazine2">
                     <h1>Versuchsablauf</h1>
-                    <p class="micro"> Neben jeder Schachposition befindet sich ein leeres Brett. Deine Aufgabe: Stelle auf diesem Brett eine neue Schachposition auf, die der Originalposition <strong>ähnelt</strong>.</p>
-                    <p class="micro" style="margin-top:10px">Nutze deine Schachkenntnisse und deine Fantasie, um <strong>Analogien</strong> zu finden, die sowohl die Spielfiguren als auch die strategische Ausrichtung der ursprünglichen Position widerspiegeln.</p>
-                  <p class="micro" style="margin-top:10px; margin-bottom:30px">Also, überlege dir, wie du die Spielfiguren auf dem leeren Brett platzieren kannst, um eine <strong>ähnliche strategische Situation</strong> zu erzeugen.</p>
+                   <p class="micro">
+                    Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. 
+                    <br><br>Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
+                    
+                    <br><br>Es befinden sich alle Figuren unter und oberhalb vom Schachbrett. Bitte erstelle ausschließlich Schachpositionen, die gespielt werden können.
+                    <br><br>Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
+                    Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
+                    </p>                  
                   <a href="{{ route('rate.images', ['image_number' => 1]) }}" class="button" style="border-radius: 7px; color: white; background-color: green;">Weiter</a>
 
                 </div> 

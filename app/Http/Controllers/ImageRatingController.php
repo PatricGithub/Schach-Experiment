@@ -55,6 +55,7 @@ public function storeRating(Request $request, $image_number)
         'answer' => 'required',
         'image' => 'required',  
         'rating' => 'required',
+        'fascination' => 'required',
     ]);
     $validatedCode = $request->cookie('validated_code');
     $participant = Participant::where('unique_id', $validatedCode)->first();
@@ -71,6 +72,7 @@ public function storeRating(Request $request, $image_number)
         'image_path' => $request->image,
         'rating' => $request->rating,
         'answer' => $request->answer,
+        'fascination' => $request->fascination,
         'participant_id' => $participant_id, // Use participant's unique_id if needed
         'expertise' => $expertise, // Get participant's expertise from form
     ]);
