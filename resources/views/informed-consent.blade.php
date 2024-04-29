@@ -27,7 +27,7 @@
                     <h3><strong>Ablauf</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">
                         Zuerst wirst du einen kurzen Fragebogen beantworten und dann drei Schachpuzzles lösen. Diese Aufgaben dienen dazu, dein Schachniveau einzuschätzen und festzustellen, ob du ein Anfänger oder ein fortgeschrittener Spieler bist.
-                             <br><br>
+                             <br>
 <br>
                             <strong>Das wird von dir erwartet:</strong> <br>
                             Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
