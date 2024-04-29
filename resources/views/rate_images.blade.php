@@ -52,7 +52,7 @@
     <option value="4">Etwas</option>
     <option value="5">Sehr</option>
 </select>
-
+<br>
 <label for="answer" class="label">Wie zuversichtlich bist du mit deiner Analogie?</label>
 <select name="zuversichtlich" id="zuversichtlich" class="input" required>
     <option value="">Bitte wählen...</option>
