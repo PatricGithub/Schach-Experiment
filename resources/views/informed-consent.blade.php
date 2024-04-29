@@ -40,7 +40,7 @@
                             Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was Denken mit Analogien ermöglicht.
                             <br>
                             Zum Beispiel:  Manche Länder nutzen die Ressourcen der Natur auf, ohne zu bedenken, dass sie damit das Klima zerstören.                           
-                         Hänsel und Gretel essen das Lebkuchenhaus, ohne zu merken, dass sie ihr Zuhause zerstören. 
+                         Das ist so ähnlich wie bei Hänsel und Gretel, die das Lebkuchenhaus essen, ohne zu merken, dass sie ihr Zuhause zerstören. 
 
                             Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
                         </p>
