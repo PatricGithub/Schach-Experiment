@@ -43,7 +43,7 @@
                          Das ist analog zu Hänsel und Gretel, die das Lebkuchenhaus essen, ohne zu merken, dass sie ihr Zuhause zerstören. 
                             Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
                            
-                           <br><br>Denke an das obige Beispiel, denn während deiner Aufgabe wirst du auf der linken Seite eine Schachpartie sehen, rechts davon befindet sich ein leeres Schachbrett, welches du so befüllen sollst, dass es analog zur linken Schachpartie ist.
+                           <br><br>Denken Sie an das obige Beispiel. Im Verlauf der Aufgabe sehen Sie links jeweils eine Schachpartie und rechts daneben ein leeres Schachbrett. Ihre Aufgabe ist es, dieses leere Schachbrett mit Figuren so zu füllen, dass die entstehende Stellung analog zur linken Schachpartie ist.
                         </p>
                     
                     <h3><strong>Dauer</strong></h3>
