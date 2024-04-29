@@ -20,7 +20,7 @@
                    <p class="micro">Dir werden nacheinander 10 verschiedene Schachpartien präsentiert. Neben jeder Partie findest du ein leeres Schachbrett, das du mit Figuren per Drag-and-Drop Funktion bestücken kannst.</p>
                    <p class="micro margin-top-2">Deine Aufgabe ist es, dir zu jeder vorgegebenen Partie eine analoge Situation auf dem leeren Schachbrett auszudenken. Du kannst dafür alle Figuren oberhalb und unterhalb des leeren Bretts benutzen. Die Analogie muss nicht dieselben Figuren verwenden, aber die Strukturen sollten sich ähneln.</p> 
                    <p class="micro margin-top-2">Erinnere dich an das Beispiel mit Hänsel und Gretel. Weder Hänsel und Gretel noch ihr Lebkuchenhaus haben etwas mit dem Klimawandel zu tun.  Aber die Art und Weise, wie sie ihr Zuhause zerstören, ähnelt der Art und Weise, wie wir unseren Planeten zerstören, indem wir Ressourcen ohne Rücksicht auf die Folgen verbrauchen.  
-                    Genau diese Art der Ähnlichkeit solltest du beim Befüllen des leeren Bretts berücksichtigen.</p>
+                    Genau diese Art der Ähnlichkeit solltest du beim Befüllen des leeren Bretts berücksichtigen. Achte aber darauf, dass die erstellten Positionen grundsätzlich spielbar sind.</p>
                    <p class="micro margin-top-2">Nachdem du deine analoge Position aufgebaut hast, erläutere bitte deine Beweggründe
                     <br>- Warum hast du genau diese Position gewählt?
                     <br>- Woher hast du die Idee für dein analoges leeres Spielbrett genommen? (War es eine Partie, die du selbst gespielt hast, beobachtet hast, oder hast du sie für diese Aufgabe erfunden?)</p> 
