@@ -38,7 +38,6 @@
                             <br> <strong>Vorab wichtig zu wissen:</strong>
                             <br> 
                             Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was Denken mit Analogien ermöglicht.
-                            Wichtig ist, dass die beiden Situationen in gewisser Weise ähnlich sein müssen. Es muss also Gemeinsamkeiten zwischen den verglichenen Dingen geben.
                             <br>
                             <strong>Beispiel:</strong>
                             <br>
