@@ -42,7 +42,7 @@
     
     
             <div class="margin-top-2 left">
-                <label for="confidence" class="label">5. Aus deiner eigenen Erfahrung, nutzt du Analogien nach dem Schachspielen?</label>
+                <label for="confidence" class="label">5. Aus deiner eigenen Erfahrung, nutzt du Analogien wenn du nach einer Partie über deine Züge nachgedacht hast?</label>
                 <select class="input" wire:model="after_game" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
