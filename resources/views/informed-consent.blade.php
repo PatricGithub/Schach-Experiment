@@ -30,7 +30,7 @@
                              <br>
 <br>
                             <strong>Das wird von dir erwartet:</strong> <br>
-                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
+                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu generieren. Versuche eine Partie zu generieren, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
                             Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
                             Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
                              <br>
