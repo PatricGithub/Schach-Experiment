@@ -30,7 +30,7 @@
                              <br>
 <br>
                             <strong>Das wird von dir erwartet:</strong> <br>
-                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu generieren. Versuche eine Partie mit einer Analogie aus deiner Erfahrung oder eine neue Analogie zu generieren, in der eine ähnliche Situation auf dem Brett entstanden ist. 
+                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu generieren. Versuche eine Partie mit einer Analogie aus deiner Erfahrung zu generieren oder eine neue Analogie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. 
                             Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
                             Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
                              <br>
