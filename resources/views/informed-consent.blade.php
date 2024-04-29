@@ -43,8 +43,8 @@
                             <br>
                             <strong>Bekannt:</strong> Hänsel und Gretel essen das Lebkuchenhaus, ohne zu merken, dass sie ihr Zuhause zerstören.
                             <br><strong> Unbekannt:</strong> Manche Länder nutzen die Ressourcen der Natur auf, ohne zu bedenken, dass sie damit das Klima zerstören.
-                            Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
-                        </p>
+                            Weder Hänsel und Gretel noch ihr Lebkuchenhaus haben etwas mit dem Klimawandel zu tun.  Aber die Art und Weise, wie sie ihr Zuhause zerstören, ähnelt der Art und Weise, wie wir unseren Planeten zerstören, indem wir Ressourcen ohne Rücksicht auf die Folgen verbrauchen.  Genau diese Art der Ähnlichkeit solltest du beim Befüllen des leeren Bretts berücksichtigen.
+                                                </p>
                     
                     <h3><strong>Dauer</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">10 - 20 Minuten</p>
