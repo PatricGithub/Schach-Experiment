@@ -43,14 +43,24 @@
             </select>
 
 <br>
-<label for="answer" class="label">Wie fasziniert bist Du mit der Analogie:</label>
+<label for="answer" class="label">Wie sehr magst du deine Analogie?</label>
 <select name="fascination" id="fascination" class="input" required>
     <option value="">Bitte wählen...</option>
-    <option value="1">Gar nicht fasziniert</option>
-    <option value="2">Eher nicht fasziniert</option>
-    <option value="3">Weder fasziniert noch unfasziniert</option>
-    <option value="4">Etwas fasziniert</option>
-    <option value="5">Extrem fasziniert </option>
+    <option value="1">Gar nicht</option>
+    <option value="2">Eher nicht</option>
+    <option value="3">Weder / noch</option>
+    <option value="4">Etwas</option>
+    <option value="5">Sehr</option>
+</select>
+
+<label for="answer" class="label">Wie zuversichtlich bist du mit deiner Analogie?</label>
+<select name="zuversichtlich" id="zuversichtlich" class="input" required>
+    <option value="">Bitte wählen...</option>
+    <option value="1">Gar nicht</option>
+    <option value="2">Eher nicht</option>
+    <option value="3">Weder / noch</option>
+    <option value="4">Etwas</option>
+    <option value="5">Sehr</option>
 </select>
             <input type="hidden" id="screenshot_input" name="rating" class="input">
         </div>
