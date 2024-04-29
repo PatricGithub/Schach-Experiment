@@ -4,7 +4,7 @@
     
         <form wire:submit.prevent="submitSurvey">
             <div class="form-group left">
-                <label for="instructionsClear" class="label">1. Hast du die Anweisungen verständlich gefunden?</label> 
+                <label for="instructionsClear" class="label">1. Hast du die Anweisungen für dieses Experiment verständlich gefunden?</label> 
                 <select class="input" wire:model="instructionsClear" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
