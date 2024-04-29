@@ -33,13 +33,12 @@
                             Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
                             Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
                             Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
-                             
-                            <br> Vorab wichtig zu wissen:
+                             <br>
+                            <br> <strong>Vorab wichtig zu wissen:</strong>
                             <br> 
                             Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was Denken mit Analogien ermöglicht.
-                            <br> 
                             Wichtig ist, dass die beiden Situationen in gewisser Weise ähnlich sein müssen. Es muss also Gemeinsamkeiten zwischen den verglichenen Dingen geben.
-                            <br> <br>
+                            <br>
                             <strong>Beispiel:</strong>
                             <br>
                             <strong>Bekannt:</strong> Hänsel und Gretel essen das Lebkuchenhaus, ohne zu merken, dass sie ihr Zuhause zerstören.
