@@ -35,7 +35,7 @@
             <input type="text" name="answer" id="answer" class="input" required>
 <br>
 
-            <label for="answer" class="label">Woher hast du die Idee für dein analoges leeres Spielbrett genommen? (War es eine Partie, die du selbst gespielt hast, beobachtet hast, oder hast du sie für diese Aufgabe erfunden?)</label>
+            <label for="answer" class="label">Woher hast du die Idee für dein analoges leeres Spielbrett genommen?</label>
             <select name="fromwhere" id="fromwhere" class="input" required>
                 <option value="">Bitte wählen...</option>
                 <option value="1">Die Stellung erinnert mich an eine Partie, die ich gespielt/gesehen/gelernt habe.</option>
