@@ -25,7 +25,6 @@
                     <br>- Warum hast du genau diese Position gewählt?
                     <br>- Woher hast du die Idee für dein analoges leeres Spielbrett genommen? (War es eine Partie, die du selbst gespielt hast, beobachtet hast, oder hast du sie für diese Aufgabe erfunden?)</p> 
                    <p class="micro margin-top-2">Zum Schluss sollst du bewerten wie sehr du deine Analogie magst und wie zuversichtlich du mit deiner Analogie bist.</p> 
-                   <p class="micro margin-top-2"><strong>Wichtig:</strong> Wenn dir zu einer vorgegebenen Partie keine konkrete Analogie einfällt, kannst du gerne eine neue Situation erfinden! Achte aber darauf, dass die erstellten Positionen grundsätzlich spielbar sind.</p>                  
                   <a href="{{ route('rate.images', ['image_number' => 1]) }}" class="button" style="border-radius: 7px; color: white; background-color: green;">Weiter</a>
                 </div> 
             </div>
