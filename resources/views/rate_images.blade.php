@@ -33,6 +33,16 @@
         <div>
             <label for="answer" class="label">Erklären Deine Analogie:</label>
             <input type="text" name="answer" id="answer" class="input" required>
+
+
+            <label for="answer" class="label">Woher hast du die Idee für dein analoges leeres Spielbrett genommen? (War es eine Partie, die du selbst gespielt hast, beobachtet hast, oder hast du sie für diese Aufgabe erfunden?)</label>
+            <select name="fromwhere" id="fromwhere" class="input" required>
+                <option value="">Bitte wählen...</option>
+                <option value="1">Die Stellung erinnert mich an eine Partie, die ich gespielt/gesehen/gelernt habe.</option>
+                <option value="2">Ich habe mir ein mögliches analoges Spiel ausgedacht.</option> 
+            </select>
+            <input type="text" name="fromwhere" id="fromwhere" class="input" required>
+
 <br>
 <label for="answer" class="label">Wie fasziniert bist Du mit der Analogie:</label>
 <select name="fascination" id="fascination" class="input" required>

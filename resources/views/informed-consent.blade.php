@@ -27,11 +27,16 @@
                     <h3><strong>Ablauf</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">
                         Zuerst wirst du einen kurzen Fragebogen beantworten und dann drei Schachpuzzles lösen. Diese Aufgaben dienen dazu, dein Schachniveau einzuschätzen und festzustellen, ob du ein Anfänger oder ein fortgeschrittener Spieler bist.
-                            <br> Vorab wichtig zu wissen: So funktioniert schlussfolgerndes Denken mit Analogien:
+                             <br><br>
+<br>
+                            <strong>Das wird von dir erwartet:</strong> <br>
+                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
+                            Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
+                            Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
+                             
+                            <br> Vorab wichtig zu wissen:
                             <br> 
-                            Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was schlussfolgerndes Denken mit Analogien ermöglicht.
-                            <br> 
-                            Dabei vergleichen wir etwas Bekanntes (das Ausgangsproblem) mit etwas Unbekanntem (dem neuen Problem). So können wir unser Wissen aus der bekannten Situation auf die unbekannte übertragen.
+                            Stell dir vor, du kennst schon etwas und kannst damit herausfinden, wie etwas anderes funktioniert, das du noch nicht kennst. Das ist genau das, was Denken mit Analogien ermöglicht.
                             <br> 
                             Wichtig ist, dass die beiden Situationen in gewisser Weise ähnlich sein müssen. Es muss also Gemeinsamkeiten zwischen den verglichenen Dingen geben.
                             <br> <br>
@@ -40,18 +45,7 @@
                             <strong>Bekannt:</strong> Hänsel und Gretel essen das Lebkuchenhaus, ohne zu merken, dass sie ihr Zuhause zerstören.
                             <br><strong> Unbekannt:</strong> Manche Länder nutzen die Ressourcen der Natur auf, ohne zu bedenken, dass sie damit das Klima zerstören.
                             Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
-                            <br><br>
-                            <strong>Merke dir:</strong> <br>
-                            
-                            - Analogien können uns helfen, neue Dinge zu verstehen. <br>
-                            - Die beiden Situationen, die wir vergleichen, müssen in gewisser Weise ähnlich sein. <br>
-                            - Analogien sind nicht immer perfekt, aber sie können uns helfen, erste Ideen zu entwickeln. <br>
-<br>
-                            <strong>Das wird von dir erwartet:</strong> <br>
-                            Du wirst mit 10 Schachpartien nacheinander konfrontiert. Neben jeder Schachpartie wird dir ein leeres Schachbrett bereitgestellt, welches du mit Schachfiguren mittel Drag and Drop Funktion bestücken kannst. Deine Aufgabe ist es nun eine Analogie zu finden. Versuche eine Partie zu erfinden, in der eine ähnliche Situation auf dem Brett entstanden ist. Vielleicht stand der König ähnlich unter Druck, oder es gab eine ähnliche Bauernstruktur.
-                            Anschließend sollst du erklären wieso du deine Aufstellung gewählt hast. 
-                            Zusätzlich sollst du noch die Faszination, die du für deine Brettzusammenstellung empfindest, bestimmen.
-                             </p>
+                        </p>
                     
                     <h3><strong>Dauer</strong></h3>
                     <p class="magazin_paragraph" style="margin-top: 10px !important; padding-top: 0px!important">10 - 20 Minuten</p>

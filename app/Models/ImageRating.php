@@ -16,5 +16,6 @@ class ImageRating extends Model
         'participant_id',
         'expertise',
         'fascination',
+        'fromwhere',
     ];
 }
