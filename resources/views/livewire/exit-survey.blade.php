@@ -13,7 +13,7 @@
             </div>
     
             <div class="margin-top-2 left">
-                <label for="confidence" class="label">2. Nutzt du Analogien beim Schachspielen?</label>
+                <label for="confidence" class="label">2. Aus deiner eigenen Erfahrung, nutzt du Analogien beim Schachspielen?</label>
                 <select class="input" wire:model="confidence" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
@@ -22,7 +22,7 @@
             </div>
     
             <div class="margin-top-2 left">
-                <label for="confidence" class="label">3. Nutzt du Analogien vor dem Schachspielen?</label>
+                <label for="confidence" class="label">3. Aus deiner eigenen Erfahrung, nutzt du Analogien vor dem Schachspielen?</label>
                 <select class="input" wire:model="pre_game" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
@@ -32,7 +32,7 @@
 
     
             <div class="margin-top-2 left">
-                <label for="confidence" class="label">4. Nutzt du Analogien während dem Schachspielen?</label>
+                <label for="confidence" class="label">4. Aus deiner eigenen Erfahrung, nutzt du Analogien während dem Schachspielen?</label>
                 <select class="input" wire:model="in_game" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
@@ -42,7 +42,7 @@
     
     
             <div class="margin-top-2 left">
-                <label for="confidence" class="label">5. Nutzt du Analogien nach dem Schachspielen?</label>
+                <label for="confidence" class="label">5. Aus deiner eigenen Erfahrung, nutzt du Analogien nach dem Schachspielen?</label>
                 <select class="input" wire:model="after_game" required>
                     <option value="">Bitte wählen...</option>
                     <option value="1">Ja</option>
