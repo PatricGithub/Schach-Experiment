@@ -41,8 +41,8 @@
                             <br>
                             Zum Beispiel:  Manche Länder nutzen die Ressourcen der Natur auf, ohne zu bedenken, dass sie damit das Klima zerstören.                           
                          Das ist analog zu Hänsel und Gretel, die das Lebkuchenhaus essen, ohne zu merken, dass sie ihr Zuhause zerstören. 
-
                             Die Geschichte von Hänsel und Gretel hilft uns also zu verstehen, dass wir mit unserem Handeln manchmal Dinge zerstören, die uns wichtig sind, ohne es zu merken.
+                            Während deiner Aufgabe wirst du auf der linken Seite eine Schachpartie sehen, rechts davon befindet sich ein leeres Schachbrett, welches du so befüllen sollst, dass es analog zur linken Schachpartie ist.
                         </p>
                     
                     <h3><strong>Dauer</strong></h3>
