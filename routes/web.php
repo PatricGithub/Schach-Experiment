@@ -5,9 +5,11 @@ use App\Livewire\ChessExperiment;
 use App\Http\Controllers\SurveyController;
 use App\Http\Controllers\InformedConsentController;
 use App\Http\Controllers\ChessExperimentController;
-use App\Http\Controllers\ImageRatingController; 
+use App\Http\Controllers\ImageRatingController;
+use App\Models\Image; 
 
 Route::get('/', function () {
+    Image::where('taken', 1)->update(['taken' => 0]);
     return view('welcome');
 });
 
