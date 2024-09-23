@@ -31,6 +31,11 @@
                         </div>
                         <div class="fix-8-12 center"> 
         <div>
+ 
+<label for="answer" class="label">Wie viele Figuren haben Sie benutzt?</label>
+<input type="text" name="figuren" id="figuren" class="input" required>
+
+            <br>
             <label for="answer" class="label">Erklären Deine Analogie:</label>
             <input type="text" name="answer" id="answer" class="input" required>
 <br>
@@ -41,7 +46,6 @@
                 <option value="1">Die Stellung erinnert mich an eine Partie, die ich gespielt/gesehen/gelernt habe.</option>
                 <option value="2">Ich habe mir ein mögliches analoges Spiel ausgedacht.</option> 
             </select>
-
 <br>
 <label for="answer" class="label">Wie sehr magst du deine Analogie?</label>
 <select name="fascination" id="fascination" class="input" required>

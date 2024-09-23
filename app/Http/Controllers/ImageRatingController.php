@@ -53,6 +53,7 @@ public function storeRating(Request $request, $image_number)
 {
     $validator = Validator::make($request->all(), [
         'answer' => 'required',
+        'figuren' => 'required',
         'image' => 'required',  
         'rating' => 'required',
         'fromwhere' => 'required',
@@ -74,6 +75,7 @@ public function storeRating(Request $request, $image_number)
         'image_path' => $request->image,
         'rating' => $request->rating,
         'answer' => $request->answer,
+        'figuren' => $request->figuren,
         'fromwhere' => $request->fromwhere,
         'zuversichtlich' => $request->zuversichtlich,
         'fascination' => $request->fascination,
