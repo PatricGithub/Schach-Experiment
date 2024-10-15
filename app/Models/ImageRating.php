@@ -11,6 +11,11 @@ class ImageRating extends Model
 
     protected $fillable = [
         'image_path',
+        'beurteilt',
+        'beurteiler1_yesno',
+        'beurteiler2_yesno',
+        'beurteiler1_scaled',
+        'beurteiler2_scaled',
         'rating',
         'answer',
         'participant_id',

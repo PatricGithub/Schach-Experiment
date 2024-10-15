@@ -17,14 +17,6 @@
         <p>Bitte geben Sie zunächst Ihren Code ein um teilzunehmen:</p>
         <!-- Livewire Code Validation Component -->
         @livewire('new-code-validation')
-        <p>Try these codes: 
-            84d9ce  <br>
-            195302 <br>
-            e95fca <br>
-            f5373d <br>
-            2d7098 <br>
-            55c0e1
-        </p>
     </div> 
 </div>
 </div>

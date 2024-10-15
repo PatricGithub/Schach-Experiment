@@ -12,6 +12,9 @@ Route::get('/', function () {
     Image::where('taken', 1)->update(['taken' => 0]);
     return view('welcome');
 });
+Route::get('/admin_1', [SurveyController::class, 'admin_1_view'])->name('admin_1_view');
+Route::post('/admin_1', [SurveyController::class, 'admin_1_post'])->name('admin_1_post');
+Route::get('/admin_2', [SurveyController::class, 'admin_2_view'])->name('admin_2_view');
 
 Route::get('/informed-consent', [InformedConsentController::class, 'show']);
 Route::get('/entry-survey', [SurveyController::class, 'show']);
