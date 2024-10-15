@@ -23,7 +23,7 @@
                         @csrf
                         <ul class="flex">
                             <li class="col-6-12">                                    
-                                <img src="{{ "http://127.0.0.1:8000/stimuli/all/" . $image_number . ".jpeg" }}" alt="Image" style="margin-top:60px">
+                                <img src="{{ "/stimuli/all/" . $image_number . ".jpeg" }}" alt="Image" style="margin-top:60px">
                             </li>                                    
                             <li class="col-6-12">
                                 <br><br><br>
