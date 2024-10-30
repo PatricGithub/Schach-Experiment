@@ -15,7 +15,23 @@ Route::get('/', function () {
 Route::get('/admin_1', [SurveyController::class, 'admin_1_view'])->name('admin_1_view');
 Route::post('/admin_1', [SurveyController::class, 'admin_1_post'])->name('admin_1_post');
 Route::get('/admin_2', [SurveyController::class, 'admin_2_view'])->name('admin_2_view');
-
+Route::post('/admin_2', [SurveyController::class, 'admin_2_post'])->name('admin_2_post');
+Route::get('/admin_3', [SurveyController::class, 'admin_3_view'])->name('admin_3_view');
+Route::post('/admin_3', [SurveyController::class, 'admin_3_post'])->name('admin_3_post');
+Route::get('/admin_4', [SurveyController::class, 'admin_4_view'])->name('admin_4_view');
+Route::post('/admin_4', [SurveyController::class, 'admin_4_post'])->name('admin_4_post');
+Route::get('/admin_5', [SurveyController::class, 'admin_5_view'])->name('admin_5_view');
+Route::post('/admin_5', [SurveyController::class, 'admin_5_post'])->name('admin_5_post');
+Route::get('/admin_6', [SurveyController::class, 'admin_6_view'])->name('admin_6_view');
+Route::post('/admin_6', [SurveyController::class, 'admin_6_post'])->name('admin_6_post');
+Route::get('/admin_7', [SurveyController::class, 'admin_7_view'])->name('admin_7_view');
+Route::post('/admin_7', [SurveyController::class, 'admin_7_post'])->name('admin_7_post');
+Route::get('/admin_8', [SurveyController::class, 'admin_8_view'])->name('admin_8_view');
+Route::post('/admin_8', [SurveyController::class, 'admin_8_post'])->name('admin_8_post');
+Route::get('/admin_9', [SurveyController::class, 'admin_9_view'])->name('admin_9_view');
+Route::post('/admin_9', [SurveyController::class, 'admin_9_post'])->name('admin_9_post');
+Route::get('/admin_10', [SurveyController::class, 'admin_10_view'])->name('admin_10_view');
+Route::post('/admin_10', [SurveyController::class, 'admin_10_post'])->name('admin_10_post');
 Route::get('/informed-consent', [InformedConsentController::class, 'show']);
 Route::get('/entry-survey', [SurveyController::class, 'show']);
 Route::get('/einleitung', [ChessExperimentController::class, 'einleitung'])->name('einleitung');

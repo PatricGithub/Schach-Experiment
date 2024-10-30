@@ -12,65 +12,52 @@
     @livewireStyles
 </head>
 <body>
+    @if($rating)
     <section class="slide padding-top-md-4 padding-bottom-md-4" style="background: #F6F0E7; height: 100vw">
         <div class="content">
           <div class="container">
             <div class="wrap">
                 <div class="fix-11-12 center">
                     <!-- rate_images.blade.php -->
-                    <form id="rating_form" action="{{ route('rate.images.store', ['image_number' => $imageNumber]) }}" method="POST">
+                    <form id="rating_form" action="{{ route('admin_8_post') }}" method="POST">
                         @csrf
                         <ul class="flex">
                             <li class="col-6-12">                                    
-                                <img src="http://127.0.0.1:8000/stimuli/all/15.jpeg" alt="Image" style="margin-top:60px">
+                                <img src="{{ "/stimuli/all/" . $image_number . ".jpeg" }}" alt="Image" style="margin-top:60px">
                             </li>                                    
                             <li class="col-6-12">
+                                <br><br><br>
                                 <div id="myBoard"></div>
                                </li>
                             </ul> 
                         </div>
                         <div class="fix-8-12 center"> 
         <div>
- 
-<label for="answer" class="label">Wie viele Figuren haben Sie benutzt?</label>
-<input type="text" name="figuren" id="figuren" class="input" required>
 
-            <br>
-            <label for="answer" class="label">Erklären Deine Analogie:</label>
-            <input type="text" name="answer" id="answer" class="input" required>
-<br>
 
-            <label for="answer" class="label">Woher hast du die Idee für dein analoges leeres Spielbrett genommen?</label>
-            <select name="fromwhere" id="fromwhere" class="input" required>
-                <option value="">Bitte wählen...</option>
-                <option value="1">Die Stellung erinnert mich an eine Partie, die ich gespielt/gesehen/gelernt habe.</option>
-                <option value="2">Ich habe mir ein mögliches analoges Spiel ausgedacht.</option> 
+            <label for="answer" class="label">Are the two boards analogous?</label>
+            <select name="yes_no" id="yes_no" class="input" required>
+                <option value="">Please choose</option>
+                <option value="0">No</option> 
+                <option value="1">Yes</option>
             </select>
-<br>
-<label for="answer" class="label">Wie sehr magst du deine Analogie?</label>
-<select name="fascination" id="fascination" class="input" required>
-    <option value="">Bitte wählen...</option>
-    <option value="1">Gar nicht</option>
-    <option value="2">Eher nicht</option>
-    <option value="3">Weder / noch</option>
-    <option value="4">Etwas</option>
-    <option value="5">Sehr</option>
-</select>
-<br>
-<label for="answer" class="label">Wie zuversichtlich bist du mit deiner Analogie?</label>
-<select name="zuversichtlich" id="zuversichtlich" class="input" required>
-    <option value="">Bitte wählen...</option>
-    <option value="1">Gar nicht</option>
-    <option value="2">Eher nicht</option>
-    <option value="3">Weder / noch</option>
-    <option value="4">Etwas</option>
-    <option value="5">Sehr</option>
-</select>
-            <input id="screenshot_input" name="rating" class="input">
+        <br> 
+        <label for="answer" class="label">Do these two boards share superficial or rather structural similiarity?</label>
+        <select name="scale" id="scale" class="input" required>
+            <option value="">Please choose</option>
+            <option value="1">Very superficial similiar</option>
+            <option value="2">Superficial similiar</option>
+            <option value="3">Neutral</option>
+            <option value="4">Structural similiar</option>
+            <option value="5">Very structural similiar</option>
+        </select>
+                    <br>
+        <label for="answer" class="label">The row in the Database (Do not edit)</label>
+        <input type="text" name="id" id="id" class="input" value="{{ $id}}" readonly>
+        <br>
         </div>
         <!-- Hidden fields to store image path and participant expertise -->
-        <input type="hidden" name="image" value="{{ asset($imagePath) }}" required>
-        <button type="submit" id="submit_button" class="box-weiter" style="margin-top: 25px; margin-left: 0px; padding: 15px 45px 15px 45px">Bestätigen</button>
+        <button type="submit" id="submit_button" class="box-weiter" style="margin-top: 25px; margin-left: 0px; padding: 15px 45px 15px 45px">Next Board</button>
 </form>
 
     </div> 
@@ -78,26 +65,25 @@
 </div>
 </div>
 </section> 
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="{{ asset('js/chessboard-1.0.0.js') }}"></script> 
     @livewireScripts
     <script>
-        var board = Chessboard('myBoard', {
-            draggable: true,
-            dropOffBoard: 'trash',
-            sparePieces: true,
-            onDrop: onDrop
-            })
-            function onDrop(source, target) {
-                // Add a short delay before capturing the FEN notation
-                setTimeout(function() {
-                    // Get the current state of the chessboard in FEN notation
-                    var fen = board.fen();
-                    // Set FEN notation as value of hidden input field
-                    document.getElementById('screenshot_input').value = fen;
-                }, 200); // Adjust the delay time as needed (in milliseconds)
-            }
-        </script>
+        var config = {
+                    position: '{{ $rating }}'
+                    } 
+        var board = Chessboard('myBoard', config)
+    </script>
+@else
+<section class="slide padding-top-md-4 padding-bottom-md-4" style="background: #F6F0E7; height: 100vw">
+    <div class="content">
+      <div class="container">
+        <div class="wrap fix-11-12">
+            <h2 class="center">Done!</h2>
+</div>
+</div>
+</div>
+</section> 
+@endif
 </body>
 </html>
